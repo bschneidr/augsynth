@@ -5,3 +5,7 @@
 ^pkg.Rproj$
 figure$
 cache$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$

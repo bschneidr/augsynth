@@ -38,3 +38,4 @@ Suggests:
     kableExtra,
     ggrepel
 VignetteBuilder: knitr
+URL: https://bschneidr.github.io/augsynth/
